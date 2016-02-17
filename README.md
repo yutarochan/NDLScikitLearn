@@ -1,4 +1,4 @@
-y# NDL ScikitLearn Resources
+# NDL ScikitLearn Resources
 
 Repository containing resources for NDL to use ScikitLearn
 
